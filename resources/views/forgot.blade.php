@@ -11,8 +11,12 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
 
     <!-- Custom CSS -->
+<<<<<<< HEAD
    <link rel="stylesheet" href="{{asset('/assets/css/custom.css')}}" />
   <link rel="stylesheet" href="{{asset('/assets/css/master.css')}}" />
+=======
+    <link rel="stylesheet" href="{{asset('/assets/css/custom.css')}}" />
+>>>>>>> origin/rahul-feature
 
   </head>
  <body>
@@ -29,6 +33,7 @@
         </div>
 
         {{-- ========== Right section ========= --}}
+<<<<<<< HEAD
       {{-- ========== Right section ========= --}}
         <div class="col-md-8  text-center">
             <div class="right_section">
@@ -64,6 +69,37 @@
   <p class="font-16 mb-0 fw-medium">Back to Login</p>
 </div>
         </div>
+=======
+       <div class="col-md-8">
+        <div class="right_section">
+           <div class="text-center">
+                    <img src="{{asset('/assets/images/via_star.png')}}" alt="" height="70" width="70">
+                    <h3 class="font-32 mt-2">Forgot password</h3>
+                    <p class="font-16">Enter your email and we’ll send you link to reset your password.</p>
+                </div>
+              <div class="d-flex align-items-center flex-column mt-2">
+                 <form action="">
+                   <!-- Email -->
+                        <div class="mb-4 position-relative w-100 d-flex justify-content-center mt-2">
+                            <i
+                                class="bi bi-envelope i_icon position-absolute text-white d-flex align-items-center justify-content-center "></i>
+                            <input type="email" class="form-control" placeholder="Email address" required>
+                        </div>
+                         <!-- reset Button -->
+                        <button type="submit" class="bg_gradient font-18 button_large text-white fw-bold border-0">
+                          Reset password
+                        </button>
+                </form>
+               </div>
+                {{-- back to login --}}
+               <div class="d-flex align-items-center justify-content-center mt-4">
+  <i class="bi bi-arrow-left text-dark me-2 fs-5"></i>
+  <p class="font-16 mb-0">Back to Login</p>
+</div>
+                      </div>
+                      
+       </div>
+>>>>>>> origin/rahul-feature
     </div>
 
     <!-- Bootstrap JS -->
