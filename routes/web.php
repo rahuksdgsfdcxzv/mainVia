@@ -16,7 +16,6 @@ Route::get('/forgot', function () {
 Route::get('/signup', function () {
     return view('signup');
 });
-<<<<<<< HEAD
 Route::get('/onboarding', function () {
     return view('onboarding');
 });
@@ -36,7 +35,7 @@ Route::get('/tripdetail', function () {
 Route::get('/bookingdetail', function () {
     return view('bookingdetail');
 });
-=======
+
 
 Route::get('/trip-media', function () {
     return view('website.trip-media');
@@ -101,4 +100,3 @@ Route::get('/Student-Breakdown', function () {
 
 
  
->>>>>>> origin/rahul-feature
