@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <!doctype html>
 <html lang="en">
 
@@ -286,4 +285,3 @@
     </form>
   </div>
 @endsection
->>>>>>> origin/rahul-feature

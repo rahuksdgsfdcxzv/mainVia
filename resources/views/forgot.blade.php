@@ -11,12 +11,10 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
 
     <!-- Custom CSS -->
-<<<<<<< HEAD
    <link rel="stylesheet" href="{{asset('/assets/css/custom.css')}}" />
   <link rel="stylesheet" href="{{asset('/assets/css/master.css')}}" />
-=======
+
     <link rel="stylesheet" href="{{asset('/assets/css/custom.css')}}" />
->>>>>>> origin/rahul-feature
 
   </head>
  <body>
@@ -33,7 +31,6 @@
         </div>
 
         {{-- ========== Right section ========= --}}
-<<<<<<< HEAD
       {{-- ========== Right section ========= --}}
         <div class="col-md-8  text-center">
             <div class="right_section">
@@ -99,7 +96,6 @@
                       </div>
                       
        </div>
->>>>>>> origin/rahul-feature
     </div>
 
     <!-- Bootstrap JS -->

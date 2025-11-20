@@ -12,16 +12,16 @@
 {
     font-size: 18px;
 }
-<<<<<<< HEAD
+
 
 .font-16
 {
     font-size: 16px;
-=======
+
 .font-28
 {
     font-size: 28px;
->>>>>>> origin/rahul-feature
+
 }
 
 .background_image {
@@ -30,16 +30,16 @@
 
 }
 
-<<<<<<< HEAD
-=======
 
->>>>>>> origin/rahul-feature
+
+
+
 .form-control
  {
   padding-left: 55px; 
   border-radius: 10px;
   height: 60px;
-<<<<<<< HEAD
+
   border: 2px solid #3B3B3B;
 }
 
@@ -55,12 +55,12 @@
   width: 100%;
 }
 
-=======
+
   width: 500px;
   border: 2px solid #3B3B3B;
 }
 
->>>>>>> origin/rahul-feature
+
 .right_section 
 {
   max-width: 550px;
@@ -74,11 +74,11 @@
 .button_large 
 {
   height: 60px;
-<<<<<<< HEAD
+
   width: 100%;
-=======
+
   width: 500px;
->>>>>>> origin/rahul-feature
+
   border-radius: 20px;
 }
 
@@ -93,7 +93,7 @@
   color: #18473B;
 }
 
-<<<<<<< HEAD
+
  .i_icon {
       height: 32px;
       width: 32px;
@@ -355,7 +355,7 @@
         }
 
 
-=======
+
 .i_icon 
 {
   height: 32px;
@@ -909,4 +909,4 @@ textarea:focus {
 }
 
 }
->>>>>>> origin/rahul-feature
+
